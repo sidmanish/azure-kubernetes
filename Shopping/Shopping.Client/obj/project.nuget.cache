@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "o/l0bBbwccMnTmI31acu+2q/5ZjXRfS53DWiiJ/7ajqMv93wVm0vdtP38HRFO7UWt6SJmvp8vIQ6NDP/EhxRaQ==",
+  "dgSpecHash": "uQ8LsydiewqoF9Cxg9NKEYO/GwK7DALm+hddtZPajNFLn3gctQ28gqoZ7o2xaRa34j4faUatSVFePzpi7tJq6g==",
   "success": true,
   "projectFilePath": "C:\\Users\\sidma\\source\\repos\\azure-kubernetes\\Shopping\\Shopping.Client\\Shopping.Client.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\sidma\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.14.0\\microsoft.visualstudio.azure.containers.tools.targets.1.14.0.nupkg.sha512"
+    "C:\\Users\\sidma\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.14.0\\microsoft.visualstudio.azure.containers.tools.targets.1.14.0.nupkg.sha512",
+    "C:\\Users\\sidma\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
   ],
   "logs": []
 }
