@@ -1,4 +1,4 @@
-﻿using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 using Newtonsoft.Json;
 using Shopping.Client.Models;
@@ -17,7 +17,7 @@ namespace Shopping.Client.Controllers
         private readonly ILogger<HomeController> _logger;
 
         public HomeController(IHttpClientFactory httpClientFactory, ILogger<HomeController> logger)
-        {
+        {            
             _logger = logger ?? throw new ArgumentNullException(nameof(logger));
             _httpClient = httpClientFactory.CreateClient("ShoppingAPIClient");
         }
